@@ -1,1 +1,1 @@
-PLACEHOLDER
+file:///workspace/collabnix-README-edited.md
